@@ -1,0 +1,67 @@
+html, body, h1, h2, h3, p, ol, ul, li, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-size: 100%;
+    font: inherit;
+}
+body {
+
+    background-color: black;
+    background-image: url(images/fancy-cushion.webp);
+    background-position: center center;
+    
+
+}
+a:link {
+    text-decoration: none;
+    
+
+}
+a:visited {
+    text-decoration: none;
+    
+}
+a:hover {
+    text-decoration: underline;
+    
+}
+a:active {
+    text-decoration: none;
+    
+}
+
+.header  ol {
+    
+    background-image: url(images/red.jpg);
+    text-align: center;
+    margin: 0px auto 0px auto;
+    margin-bottom: 200px;
+    padding: 25px 0px 15px 0px
+    
+   
+}
+.header li {
+        display: inline;
+    padding: 0px 0px 0px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    
+}
+.content {
+text-align: center;
+ margin: 0px auto 0px auto;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 50px;
+margin-bottom: 10px;
+color: aqua;
+
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: aqua;
+}
